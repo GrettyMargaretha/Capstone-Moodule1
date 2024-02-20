@@ -1,4 +1,4 @@
-English
+(English)
 Massachusetts General Hospital Patient and Appointment Management System
 
 Welcome to the Massachusetts General Hospital (MGH) Patient and Appointment Management System. This interactive Python program provides functionalities for managing patient records and appointments efficiently.
@@ -34,7 +34,7 @@ Follow the on-screen prompts to navigate through the system.
 Thank you for choosing the Massachusetts General Hospital Patient and Appointment Management System. I would greatly appreciate your feedback and contributions.
 
 
-Indonesia
+(Indonesia)
 Sistem Manajemen Pasien dan Janji Temu Rumah Sakit Umum Massachusetts
 
 Selamat datang di Sistem Manajemen Pasien dan Janji Temu Rumah Sakit Umum Massachusetts (MGH). Program Python interaktif ini menyediakan fungsionalitas untuk mengelola catatan pasien dan janji temu dengan efisien.
