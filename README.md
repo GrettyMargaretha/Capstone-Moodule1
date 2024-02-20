@@ -34,6 +34,8 @@ Follow the on-screen prompts to navigate through the system.
 Thank you for choosing the Massachusetts General Hospital Patient and Appointment Management System. I would greatly appreciate your feedback and contributions.
 
 
+---------------------------------------------------------------------------------------------------------------------------------------
+
 (Indonesia)
 Sistem Manajemen Pasien dan Janji Temu Rumah Sakit Umum Massachusetts
 
